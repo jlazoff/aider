@@ -1,0 +1,26 @@
+{
+  "name": "aider",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">     <a href=\"https://aider.chat/\"><img src=\"https://aider.chat/assets/logo.svg\" alt=\"Aider Logo\" width=\"300\"></a> </p>",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aider-AI/aider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aider-AI/aider/issues"
+  },
+  "homepage": "https://github.com/Aider-AI/aider#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.24"
+  }
+}
